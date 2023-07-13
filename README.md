@@ -110,11 +110,10 @@ You can deploy this project using: webpack
 
 ## 👷‍♂️ Author <a name="authors"></a>
 
-👷‍♂️ **daniela**
+👷‍♂️ Javier J. Martínez F.
 
-- GitHub: [@daniela](https://github.com/danielamoreno699)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniela-moreno-06a139124/)
-- twitter : [twitter](@Daniela38932450)
+- GitHub: [@jlcarrascof]
+- Twitter: [@javiersistemas]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
