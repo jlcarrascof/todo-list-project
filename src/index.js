@@ -2,17 +2,17 @@ import './style.css';
 
 const arrayToDoList = [
   {
-    desc: 'finish microverse proyect',
+    desc: 'finish microverse project',
     completed: false,
     index: 1,
   },
   {
-    desc: 'buy groceries',
+    desc: 'go to the pharmacy',
     completed: false,
     index: 2,
   },
   {
-    desc: 'appointment with friend',
+    desc: 'appointment with the doctor',
     completed: false,
     index: 3,
   },
