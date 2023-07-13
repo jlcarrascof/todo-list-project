@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Book Collection] <a name="about-project"></a>
+# 📖 [To Do List Project] <a name="about-project"></a>
 
 **[to do list]** 
 
