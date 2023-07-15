@@ -96,6 +96,8 @@ input[type=text] {
   border: none;
 }
 
+/*
 li:hover input[type="text"]::before {
   content: attr(value);
 }
+*/
