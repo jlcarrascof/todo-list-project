@@ -95,9 +95,3 @@ input[type=text] {
   outline: none;
   border: none;
 }
-
-/*
-li:hover input[type="text"]::before {
-  content: attr(value);
-}
-*/
